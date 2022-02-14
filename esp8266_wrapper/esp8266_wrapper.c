@@ -1,7 +1,6 @@
 /**
  * Wrapper module for source code compatibility with esp-open-rtos.
  */
-
 #ifdef ESP_PLATFORM  // ESP32 (ESP-IDF)
 
 #include <sys/time.h>
